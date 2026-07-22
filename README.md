@@ -141,11 +141,8 @@ Task4_Hypothesis_Testing/
 
 │
 ├── README.md
-├── Hypothesis_Testing.ipynb
-├── Statistical_Validation_Report.pdf
 ├── Cleaned_Sales_Dataset.xlsx
 ├── Python_Output/
-│   ├── T_Test_Result.png
 │   ├── Boxplot.png
 │   └── Histogram.png
 └── Presentation/
